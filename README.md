@@ -1,4 +1,4 @@
-```markdown
+
 # Welcome to the World of Effortless Content Creation! 🎉
 
 Introducing the **Automated Content Generation System** – your new best friend for generating creative and engaging content in a flash! 🚀
@@ -57,12 +57,3 @@ This project is open to all, and we would love for you to get involved. Whether 
 Join the community of content creators and start generating high-quality content today! Fork this repo, get started, and share your creations with the world! 🌍
 
 Let’s create amazing content together. 🌟
-```
-
----
-
-### Key Highlights:
-- **Engaging and Fun**: The tone is friendly, fun, and motivating, encouraging users to get started.
-- **Clear Steps**: Simple and easy-to-follow instructions on how to clone the repo, install dependencies, and use the system.
-- **Localized Focus**: Emphasizing content creation specific to Bangalore, which adds uniqueness and relatability.
-- **Call to Action**: Encourages users to contribute, personalize the project, and start generating content.
